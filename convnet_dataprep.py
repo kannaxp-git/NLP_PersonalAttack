@@ -5,7 +5,6 @@ Created on Mon Jul 27 23:20:11 2020
 @author: kach
 """
 
-
 from convokit import Corpus, download
 corpus = Corpus(filename=download("conversations-gone-awry-corpus"))
 
