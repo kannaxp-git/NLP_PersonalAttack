@@ -1,0 +1,2 @@
+https://www.kaggle.com/thanakomsn/glove6b300dtxt
+https://nlp.stanford.edu/projects/glove/
